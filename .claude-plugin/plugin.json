@@ -1,0 +1,22 @@
+{
+  "name": "anti-asu-skills",
+  "displayName": "anti-asu-skills",
+  "description": "面向招聘方的简历核验技能包：七档证据分级、领域归属核验、开源贡献含金量、博客原创性、凭证核对，并产出带坑的面试题。",
+  "version": "0.1.0",
+  "author": {
+    "name": "shaokeyibb",
+    "url": "https://github.com/shaokeyibb"
+  },
+  "homepage": "https://github.com/shaokeyibb/anti-asu-skills",
+  "repository": "https://github.com/shaokeyibb/anti-asu-skills",
+  "license": "MIT",
+  "keywords": [
+    "resume-verification",
+    "hiring",
+    "recruiting",
+    "interview",
+    "due-diligence",
+    "claude-skill",
+    "chinese"
+  ]
+}

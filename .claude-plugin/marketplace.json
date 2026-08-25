@@ -1,0 +1,26 @@
+{
+  "name": "anti-asu",
+  "description": "面向招聘方的简历核验技能市场。",
+  "owner": {
+    "name": "shaokeyibb",
+    "url": "https://github.com/shaokeyibb"
+  },
+  "plugins": [
+    {
+      "name": "anti-asu-skills",
+      "source": "./",
+      "displayName": "anti-asu-skills",
+      "description": "用 /resume-audit 核验一份简历：七档证据分级报告 + 3—6 道带坑的面试题。",
+      "version": "0.1.0",
+      "author": {
+        "name": "shaokeyibb",
+        "url": "https://github.com/shaokeyibb"
+      },
+      "homepage": "https://github.com/shaokeyibb/anti-asu-skills",
+      "repository": "https://github.com/shaokeyibb/anti-asu-skills",
+      "license": "MIT",
+      "category": "Productivity",
+      "keywords": ["resume-verification", "hiring", "interview", "chinese"]
+    }
+  ]
+}
